@@ -1,0 +1,9 @@
+\\ntadminp01\NTADMIN\PowerShell\Automation\WF-Automation-Srv\WF-Automation-Srv\bin\WF-Automation-Srv.dll
+\\ntadminp01\NTADMIN\PowerShell\Automation\WF-Automation-Srv\WF-Automation-Srv\bin\WF-Automation-Srv.pdb
+\\ntadminp01\NTADMIN\PowerShell\Automation\WF-Automation-Srv\WF-Automation-Srv\bin\WF-Automation-Srv.xml
+\\ntadminp01\NTADMIN\PowerShell\Automation\WF-Automation-Srv\WF-Automation-Srv\obj\Debug\ResolveAssemblyReference.cache
+\\ntadminp01\NTADMIN\PowerShell\Automation\WF-Automation-Srv\WF-Automation-Srv\obj\Debug\WF_Automation_Srv.Resources.resources
+\\ntadminp01\NTADMIN\PowerShell\Automation\WF-Automation-Srv\WF-Automation-Srv\obj\Debug\WF-Automation-Srv.vbproj.GenerateResource.Cache
+\\ntadminp01\NTADMIN\PowerShell\Automation\WF-Automation-Srv\WF-Automation-Srv\obj\Debug\WF-Automation-Srv.dll
+\\ntadminp01\NTADMIN\PowerShell\Automation\WF-Automation-Srv\WF-Automation-Srv\obj\Debug\WF-Automation-Srv.xml
+\\ntadminp01\NTADMIN\PowerShell\Automation\WF-Automation-Srv\WF-Automation-Srv\obj\Debug\WF-Automation-Srv.pdb

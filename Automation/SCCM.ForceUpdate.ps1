@@ -1,0 +1,17 @@
+﻿#$boxes = @("NTH11HFMP01","NTH11HFMP02","NTH11BIWKP01","NTH11BIWKP02","NTH11BICRP01","NTH11BICRP01","NTH11ESBP01","NTH11ODIP01","NTH11PLANP01")
+$boxes = @("NTTMP03")
+#$boxes = @("NTRFBRDP01","NTRFBRDP02","NTRFBRDP03","NTRFBRDP04")
+ForEach($box in $boxes){
+ $WMIClass = "\\" + $box + "\root\ccm:SMS_Client"
+ $SMSCli = [wmiclass] $WMIClass
+ $SMSCli.TriggerSchedule("{00000000-0000-0000-0000-000000000021}")
+ $SMSCli.TriggerSchedule("{00000000-0000-0000-0000-000000000113}")
+ $SMSCli.TriggerSchedule("{00000000-0000-0000-0000-000000000114}")
+ $SMSCli.TriggerSchedule("{00000000-0000-0000-0000-000000000108}")
+}
+
+
+
+
+
+#Scan-Inventory -Entity (Get-VM -Name "NTADMINP01") -RunAsync

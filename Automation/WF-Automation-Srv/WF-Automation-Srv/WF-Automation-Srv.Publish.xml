@@ -1,0 +1,12 @@
+<publishData>
+  <publishTarget publishUrl="\\w7ntadmin02\c$\WF\">
+    <file relUrl="bin/WF-Automation-Srv.xml" publishTime="03/31/2010 15:48:42" />
+    <file relUrl="WF-Automation-Srv.vbproj.user" publishTime="03/31/2010 15:48:37" />
+    <file relUrl="WF-Automation-Srv.vbproj" publishTime="03/31/2010 15:48:37" />
+    <file relUrl="Automate.asmx" publishTime="03/31/2010 15:48:17" />
+    <file relUrl="Web.config" publishTime="03/31/2010 11:51:11" />
+    <file relUrl="bin/WF-Automation-Srv.pdb" publishTime="03/31/2010 15:48:42" />
+    <file relUrl="bin/WF-Automation-Srv.dll" publishTime="03/31/2010 15:48:42" />
+    <file relUrl="WF-Automate.asmx" publishTime="03/31/2010 11:18:27" />
+  </publishTarget>
+</publishData>
