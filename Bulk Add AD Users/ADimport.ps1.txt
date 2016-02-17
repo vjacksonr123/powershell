@@ -1,0 +1,8 @@
+Import-Csv <Path to Data File> | New-ADUser -PassThru | `
+
+Set-ADAccountPassword  `
+
+-NewPassword (ConvertTo-SecureString -AsPlainText '<Imput the password you want' -Force) `
+
+-PassThru | Enable-ADAccount
+
