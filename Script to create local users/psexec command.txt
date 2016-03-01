@@ -1,0 +1,4 @@
+
+
+
+psexec -accepteula \\remote server net localgroup Administrators "uid" /add

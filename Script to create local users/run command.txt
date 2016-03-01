@@ -1,0 +1,5 @@
+$userlist = Get-Content c:\temp\userlist.csv
+$computerlist = Get-Content c:\temp\computerlist.csv
+.\New-LocalObject.ps1 -ComputerName $Targets -ObjectType User -ObjectName $userlist
+
+
