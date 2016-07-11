@@ -10,8 +10,8 @@ Param(
 # IMPORTANT NOTE : THE SCRIPT IS IN DEBUG SO THE USERNAME/PASSWORD IS PRE-ENTERED
 # IMPORTANT NOTE : THE SCRIPT IS IN DEBUG SO THE USERNAME/PASSWORD IS PRE-ENTERED
 $user = "administrator"
-$pass = "r00tr00t~"
-$dom  = "ne-corp"
+$pass = "dave"
+$dom  = "businesspritin"
 $Hourstogoback=100
 
 # This Don’t forget to change IP address/host name for domain variable above and in WSDL URI below 
